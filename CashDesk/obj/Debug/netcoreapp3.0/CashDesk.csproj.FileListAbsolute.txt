@@ -1,0 +1,10 @@
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.deps.json
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.dll
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.pdb
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.csprojAssemblyReference.cache
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfoInputs.cache
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfo.cs
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.dll
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.pdb
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.json
+D:\Felix\HTL\5BHIF\POSE\C#\Uebungen\Uebung_4_CashDesk\cash-desk-exercise-fleibetseder\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.dev.json
